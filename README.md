@@ -3,13 +3,17 @@
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A |⚪   |❌  |⚪   |
-| B |❌   |❌   |   |
+| B |❌   |❌   |⚪   |
 | C |❌   |⚪  | ⚪  |
 
 **Legenda**
 
 - ❌ Primeiro jogador 
 - ⚪ Segundo jogador
+
+**Ganhador:**
+
+- Segundo Jogador
 
 
 

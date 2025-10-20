@@ -4,9 +4,13 @@
 |---|---|---|---|
 | A |❌   |⚪   |   |
 | B |❌   |❌   |   |
-| C |⚪   | ⚪  |   |
+| C |⚪   | ⚪  |❌   |
 
 **Legenda**
 
 - ❌ Primeiro jogador 
 - ⚪ Segundo jogador
+
+**Ganhador:**
+
+- Primeiro Jogador
